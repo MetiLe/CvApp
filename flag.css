@@ -1,3 +1,6 @@
+body{
+    background-color: wheat;
+}
 #ared{
     background-color:rgb(190, 0,39);
     border:20px rgb(190, 0,39) solid ;
@@ -46,12 +49,36 @@
         margin-left:30px;
         margin-right: 30px;
 }
-#awhite{
+.awhite{
     background-color:rgb(255,255,255);
     border:20px rgb(255,255,255) solid;
     padding:20px;
     margin-left: 0px;
     margin-bottom: 0px;
-    margin-right: 0px;
+    margin-right:0px;
     margin-top: 0px;
+}
+
+#bgreen{
+    background-color:rgb(0,166,81);
+    border:20px rgb(0,166,81) solid;
+    padding:20px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+    margin-right: 30px;
+    margin-top: 0px;
+
+}
+#bred{
+background-color:rgb(237,28,36);
+border:20px rgb(237,28,36) solid;
+padding:20px;
+margin-left: 30px;
+margin-bottom: 0px;
+margin-right: 30px;
+margin-top: 0px;
+}
+#bwhite{
+    margin-left: 30px;
+    margin-right: 30px;
 }
