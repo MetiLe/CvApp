@@ -58,7 +58,29 @@ body{
     margin-right:0px;
     margin-top: 0px;
 }
+#benin{
+    background-color:rgb(0,166,81);
+    border-left:20px wheat solid;
+    border-right: 30px wheat solid;
+}
 
+#benired{
+    background-color:rgb(237,27,36);
+    border:20px rgb(237,27,36) solid;
+    padding:20px;
+    margin-left: 200px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+#beniyellow{
+    background-color:rgb(255,242,0);
+    border:20px rgb(255,242,0) solid;
+    padding:20px;
+    margin-left: 200px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-top: 0px;}
 #bgreen{
     background-color:rgb(0,166,81);
     border:20px rgb(0,166,81) solid;
@@ -212,3 +234,39 @@ margin-top: 0px;
     margin-right: 0px;
     margin-top: 0px;
 }
+#nig{
+    background-color:rgb(0,166,81);
+    border-left:20px wheat solid;
+    border-right: 30px wheat solid;
+}
+
+#nigwhite{
+    background-color:white;
+    border:20px white solid;
+    padding:20px;
+    margin-left: 200px;
+    margin-bottom: 0px;
+    margin-right:200px;
+    margin-top: 0px;}
+#thi{
+    background-color:white;
+    border-left:30px wheat solid;
+    border-right:30px wheat solid;}
+.thired{
+    background-color:rgb(165,25,49);
+    border:20px rgb(165,25,49) solid;
+    padding:20px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+
+}
+#thiblue{
+     background-color: rgb(45,42,79);
+    border-color: white;
+    padding: 30px;
+    border-bottom:20px white solid;
+    border-top:20px  white solid;
+    margin-left: 0px;
+    margin-right:0px;
