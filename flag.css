@@ -1,5 +1,23 @@
 body{
     background-color: wheat;
+    margin-top: 10%;
+}
+header{
+    position: fixed;
+    width: 100%;
+    top:0; 
+    left: 0;
+    background-color:rgba(0,0,0,1);
+    color: salmon;
+    margin-left:0;
+    border-left: 0px;
+    padding-left: 0px;
+    display: flex;
+}
+nav>ul>li{
+    display:inline-block;
+    padding:5px 30px;
+    font-size: 20px;
 }
 #ared{
     background-color:rgb(190, 0,39);
@@ -195,8 +213,8 @@ margin-top: 0px;
      background-color: rgb(0,102,179);
     border-color: white;
     padding: 30px;
-    border-bottom:20px white solid;
-    border-top:20px  white solid;
+    border-bottom:5px white solid;
+    border-top:5px  white solid;
     margin-left: 0px;
     margin-right:0px;
 }
@@ -270,3 +288,15 @@ margin-top: 0px;
     border-top:20px  white solid;
     margin-left: 0px;
     margin-right:0px;
+}
+@media screen and (max-width: 2000px) {
+    .header>nav>ul>li> a {
+      float: none;
+      width: 100%;
+    }
+  }
+  footer{
+    position: relative;
+bottom: 0;
+    left: 0;
+    }
