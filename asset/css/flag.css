@@ -1,0 +1,302 @@
+body{
+    background-color: wheat;
+    margin-top: 10%;
+}
+header{
+    position: fixed;
+    width: 100%;
+    top:0; 
+    left: 0;
+    background-color:rgba(0,0,0,1);
+    color: salmon;
+    margin-left:0;
+    border-left: 0px;
+    padding-left: 0px;
+    display: flex;
+}
+nav>ul>li{
+    display:inline-block;
+    padding:5px 30px;
+    font-size: 20px;
+}
+#ared{
+    background-color:rgb(190, 0,39);
+    border:20px rgb(190, 0,39) solid ;
+    margin-left: 30px;
+    margin-bottom: 0px;
+    margin-right: 30px;
+}
+#ablue{
+    background-color:rgb(59, 90,163);
+    border:20px rgb(59, 90,163) solid;
+    margin-left: 30px;
+    margin-bottom: 0px;
+    margin-right: 30px;
+    margin-top: 0px;
+}
+#ayellow{
+    background-color:rgb(226,174,87);
+    border:20px  rgb(226,174,87) solid;
+    margin-left: 30px;
+    margin-bottom: 0px;
+    margin-right: 30px;
+    margin-top: 0px;
+}
+.bblue{
+    background-color: rgb(0, 189,242);
+    border:20px  rgb(0, 189,242) solid ;
+    border-left:0;
+    border-right:0;
+    margin-left:30px;
+    margin-right: 30px;
+}
+#bblack{
+    background-color: rgb(35,31,32);
+    border-color: white;
+    padding: 20px;
+    border-bottom:10px white solid;
+    border-top:10px  white solid;
+    margin-left: 0px;
+    margin-right: 0;
+}
+.austria{
+        background-color: rgb(215,36,39);
+        border:20px  rgb(215, 36,39) solid ;
+        border-left:0;
+        border-right:0;
+        margin-left:30px;
+        margin-right: 30px;
+}
+.awhite{
+    background-color:rgb(255,255,255);
+    border:20px rgb(255,255,255) solid;
+    padding:20px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    margin-right:0px;
+    margin-top: 0px;
+}
+#benin{
+    background-color:rgb(0,166,81);
+    border-left:20px wheat solid;
+    border-right: 30px wheat solid;
+}
+
+#benired{
+    background-color:rgb(237,27,36);
+    border:20px rgb(237,27,36) solid;
+    padding:20px;
+    margin-left: 200px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+#beniyellow{
+    background-color:rgb(255,242,0);
+    border:20px rgb(255,242,0) solid;
+    padding:20px;
+    margin-left: 200px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-top: 0px;}
+#bgreen{
+    background-color:rgb(0,166,81);
+    border:20px rgb(0,166,81) solid;
+    padding:20px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+    margin-right: 30px;
+    margin-top: 0px;
+
+}
+.bred{
+background-color:rgb(237,28,36);
+border:20px rgb(237,28,36) solid;
+padding:20px;
+margin-left: 30px;
+margin-bottom: 0px;
+margin-right: 30px;
+margin-top: 0px;
+}
+#bwhite{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+#cyellow{
+    background-color:rgb(255,242,0);
+border:50px rgb(255,242,0) solid;
+padding:20px;
+margin-left: 30px;
+margin-bottom: 0px;
+margin-right: 30px;
+margin-top: 0px;
+}
+#cblue{
+    background-color:rgb(0,102,179);
+border:20px rgb(0,102,179) solid;
+padding:20px;
+margin-left: 30px;
+margin-bottom: 0px;
+margin-right: 30px;
+margin-top: 0px;
+}
+#estwhite{
+    background-color:rgb(255,255,255);
+    border:20px rgb(255,255,255) solid;
+    padding:20px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+    margin-right: 30px;
+    margin-top: 0px;
+}
+#estblack{
+    background-color:rgb(35,31,32);
+    border:20px rgb(35,31,32) solid;
+    padding:20px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+    margin-right: 30px;
+    margin-top: 0px;
+}
+#estblue{
+    background-color:rgb(0,102,179);
+    border:20px rgb(0,102,179) solid;
+    padding:20px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+    margin-right: 30px;
+    margin-top: 0px;
+}
+#gablue{
+    background-color:rgb(0,102,179);
+    border:20px rgb(0,102,179) solid;
+    padding:20px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+    margin-right: 30px;
+    margin-top: 0px;
+}
+#gabyellow{
+    background-color:rgb(255,242,0);
+    border:20px rgb(255,242,0) solid;
+    padding:20px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+    margin-right: 30px;
+    margin-top: 0px;
+}
+#gabgreen{
+    background-color:rgb(0,166,81);
+    border:20px rgb(0,166,81) solid;
+    padding:20px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+    margin-right: 30px;
+    margin-top: 0px;
+}
+#gambia{
+    background-color:white;
+    border-left:30px wheat solid;
+    border-right:30px wheat solid;
+}
+#gamred{
+    background-color:rgb(237,28,36);
+    border:20px rgb(237,28,36) solid;
+    padding:20px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+
+}
+#gamblue{
+     background-color: rgb(0,102,179);
+    border-color: white;
+    padding: 30px;
+    border-bottom:5px white solid;
+    border-top:5px  white solid;
+    margin-left: 0px;
+    margin-right:0px;
+}
+#gamgreen{
+    background-color:rgb(0,166,81);
+    border:20px rgb(0,166,81) solid;
+    padding:20px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+
+#mada{
+    background-color: white;
+    border-left:20px wheat solid;
+    border-right: 30px wheat solid;
+}
+
+#mred{
+    background-color:rgb(237,27,36);
+    border:20px rgb(237,27,36) solid;
+    padding:20px;
+    margin-left: 200px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+#mgreen{
+    background-color:rgb(0,166,80);
+    border:20px rgb(0,166,80) solid;
+    padding:20px;
+    margin-left: 200px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+#nig{
+    background-color:rgb(0,166,81);
+    border-left:20px wheat solid;
+    border-right: 30px wheat solid;
+}
+
+#nigwhite{
+    background-color:white;
+    border:20px white solid;
+    padding:20px;
+    margin-left: 200px;
+    margin-bottom: 0px;
+    margin-right:200px;
+    margin-top: 0px;}
+#thi{
+    background-color:white;
+    border-left:30px wheat solid;
+    border-right:30px wheat solid;}
+.thired{
+    background-color:rgb(165,25,49);
+    border:20px rgb(165,25,49) solid;
+    padding:20px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+
+}
+#thiblue{
+     background-color: rgb(45,42,79);
+    border-color: white;
+    padding: 30px;
+    border-bottom:20px white solid;
+    border-top:20px  white solid;
+    margin-left: 0px;
+    margin-right:0px;
+}
+@media screen and (max-width: 2000px) {
+    .header>nav>ul>li> a {
+      float: none;
+      width: 100%;
+    }
+  }
+  footer{
+    position: relative;
+bottom: 0;
+    left: 0;
+    }
